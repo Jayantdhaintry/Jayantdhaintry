@@ -4,7 +4,7 @@
 
 - 📚  Always eager to learn stuff.
 - 🔭 I’m currently working on small Ml and Object Detection projects.
-- 🌱 I’m currently learning the backend frame works using nodejs.
+- 🌱 I’m currently learning building Ml model using TensorFlow.
 - 👯 I’m looking forward to contribute in open source.
 - 📫 You can reach me through my mail : ________________
 - ⚡ Fun fact: I am a learner and wants to be the same throughout my life 😉.
@@ -37,8 +37,7 @@
 <img align="left" alt="css" width="64px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-1024.png" />
 <img align="left" alt="javaScript" width="64px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-4096.png" />
 <img align="left" alt="bootstrap" width="64px" src="https://camo.githubusercontent.com/84746920d1a9906680c387b3cc8753ee842e996fc8915abd295011e15b594b74/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e312f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" />
-<img align="left" alt="jquery" width="64px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-4096.png" />
-<img align="left" alt="nodejs" width="64px" src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-1024.png" />
+
 <!-- ![Express icon]() -->
 <img align="left" alt="github" width="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-4096.png" />
 <img align="left" alt="mongodb" width="64px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/github-repository-svn-manage-files-contribute-branch-1024.png" />
